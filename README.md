@@ -1,6 +1,6 @@
 # Hi, I'm Dott!
 
-**Welcome to my [Blog](dott.love).**
+🌏  **Welcome to my [Blog](dott.love).**
 
 **Currently:**
 
