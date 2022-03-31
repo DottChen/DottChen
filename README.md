@@ -12,4 +12,4 @@
 
 🍎  Keeping an eye on Apple.Inc.
 
-👓  Passionate about the future of AR & Web 3.0.
+👓  Passionate about the future of AR.
