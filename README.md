@@ -8,7 +8,7 @@
 
 🐍  Learning Python & Swfit.
 
-🎨  Thinking and experimenting with product and UX design.
+🎨  Experimenting with product and UX design.
 
 🍎  Keeping an eye on Apple.Inc.
 
