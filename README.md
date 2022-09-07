@@ -1,4 +1,4 @@
-# Hi, I'm Chen Yong!
+# Hi, I'm ChenYong!
 
 🌏  **Welcome to my [Blog](dott.love).**
 
