@@ -1,15 +1,13 @@
-# Hi, I'm Dott!
+### Hey, I'm Dott!
 
 🌏  **Welcome to my [Blog](dott.love).**
 
 **Currently:**
 
-🏛️  A graduate student of Architecture at Tongji University
+🎨 Experimenting with product and design.
 
-🐍  Learning Python & Swfit.
+🧑🏻‍💻 Learning web development, SwiftUI and Python.
 
-🎨  Experimenting with product and UX design.
+🍎 Keeping an eye on The Fruit Company.
 
-🍎  Keeping an eye on Apple.Inc.
-
-👓  Passionate about the future of AR.
+👓 Passionate about the future of AR.of AR.
