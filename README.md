@@ -10,4 +10,4 @@
 
 🍎 Keeping an eye on The Fruit Company.
 
-👓 Passionate about the future of AR.of AR.
+👓 Passionate about the future of AR.
