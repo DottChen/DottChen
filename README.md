@@ -1,13 +1,11 @@
 ### Hey, I'm Dott!
 
-🌏  **Welcome to my [Blog](dott.love).**
+A product tinkerer. My interests lie in software design, product growth, AR, and indie hacking.
+
+You can know more about me through the articles I wrote and the projects I did in the past by checking out my [blog](dott.love).
 
 **Currently:**
 
-🎨 Experimenting with product and design.
+Living in Beijing, China.
 
-🧑🏻‍💻 Learning web development, SwiftUI and Python.
-
-🍎 Keeping an eye on The Fruit Company.
-
-👓 Passionate about the future of AR.
+Working as a Growth PM at Meshy AI, a leading startup in the 3D generative AI field.
